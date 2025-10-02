@@ -10,7 +10,7 @@ Our goal is to uncover hidden patterns, trends, and meaningful relationships in 
 ---
 
 ## Dataset
-Dataset Link - hƩps://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
+Dataset Link - https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
 
 - The dataset contains annual climate and environmental statistics across 50+ countries from 2000 to 2023.
 - Key variables studied:
