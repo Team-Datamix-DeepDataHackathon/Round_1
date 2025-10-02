@@ -50,11 +50,26 @@ Dataset Link - https://www.kaggle.com/datasets/bhadramohit/climate-change-datase
 
 ## Key Insights
 
-- No strong linear correlation between renewable energy percentage and CO₂ emissions globally.
-- Developed nations have higher per capita emissions, but developing nations show signs of increases.
-- Forest area and extreme weather events show weak linear relationships, suggesting complex climate dynamics.
-- Post-2015 (Paris Agreement) period shows modest increases in renewables but no clear CO₂ reduction trend globally.
-- Regional disparities suggest targeted policy approaches may be more effective than global one-size-fits-all solutions.
+1. **Limited Direct Effects of Single Variables**  
+   - Simple linear relationships between CO₂ emissions, renewable energy adoption, forest area, and climate impact indicators (temperature, extreme weather, sea level rise) are very weak or statistically insignificant globally.  
+   - This indicates that the complex dynamics of climate change cannot be captured by looking at individual variables in isolation due to confounding and interacting influences.
+
+2. **Divergent Emission Trends by Development Status**  
+   - Developed countries generally maintain higher per capita CO₂ emissions, though recent years show variability.  
+   - Developing countries exhibit lower per capita emissions on average but demonstrate stronger upward trends reflecting rapid industrialization and energy growth.  
+   - The narrowing gap highlights urgent global equity and technological transfer considerations.
+
+3. **Post-2015 Acceleration in Renewables with Limited Emission Reduction**  
+   - Post-Paris Agreement (2015) data shows increased renewable energy share worldwide. Still, CO₂ emissions have not correspondingly declined—suggesting a time lag, insufficient scale, or offsetting economic factors.  
+   - Effective climate action requires coupling renewable adoption with aggressive decarbonization and conservation policies.
+
+4. **Forest Cover's Role in Climate Impacts is Complex**  
+   - Forest area shows almost no direct linear correlation with extreme weather frequency, implying that forest cover alone is not a reliable indicator of climatic risk at the country level.  
+   - Localized studies and multivariate approaches are needed to better understand forest-related climate resilience factors.
+
+5. **Strong Regional Disparities Call for Tailored Policies**  
+   - Regional analysis reveals North America and Asia dominate in emissions per capita, while Europe leads in renewable energy adoption, underscoring varied national priorities and capabilities.  
+   - Climate policies must account for regional socioeconomic realities rather than applying uniform global prescriptions.
 
 ---
 
